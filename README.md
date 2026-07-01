@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -33,5 +34,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
