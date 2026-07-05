@@ -8,6 +8,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -30,12 +31,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
