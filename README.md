@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -21,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/1679-max-number-of-k-sum-pairs) |
