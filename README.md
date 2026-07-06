@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0283-move-zeroes) |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/siddkalekar05/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
