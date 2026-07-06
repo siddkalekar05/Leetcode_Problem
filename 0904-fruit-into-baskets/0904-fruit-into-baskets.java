@@ -1,24 +1,26 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public int totalFruit(int[] fruits) {
-         Map<Integer,Integer> hm = new HashMap<>();
-       int left = 0;
-       int res = 0;
-       for(int right=0;right<fruits.length;right++){
-        int fruit = fruits[right];
-        hm.put(fruit, hm.getOrDefault(fruit, 0)+1);
+        Map<Integer,Integer> hm = new HashMap<>();
+        int left = 0;
+        int res = 0;
+        for(int r = 0;r<fruits.length;r++){
+            int l = fruits[r];
+            hm.put(l, hm.getOrDefault(l,0)+1);
 
-        while(hm.size()>2){
-            int remove = fruits[left];
-            hm.put(remove, hm.getOrDefault(remove, 0)-1);
-            if(hm.get(remove)==0){
-                hm.remove(remove);
+            while(hm.size()>2){
+                int leftFruit = fruits[left];
+                hm.put(leftFruit, hm.getOrDefault(leftFruit,0)-1);
+                if(hm.get(leftFruit)==0){
+                    hm.remove(leftFruit);
+                }
+                left++;
             }
-            left++;
+            res = Math.max(res, r-left+1);
+            
         }
-            res = Math.max(res, right-left+1);
-        
-       }
-       return res;
-        
+        return res;
     }
 }
